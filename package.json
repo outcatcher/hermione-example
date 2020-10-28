@@ -1,0 +1,20 @@
+{
+  "name": "hermione-example",
+  "version": "0.1.0",
+  "description": "Example of screenshot automation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "growl": "^1.10.5",
+    "hermione": "^3.9.0",
+    "html-reporter": "^5.16.4",
+    "lodash": "^4.17.20",
+    "minimist": "^1.2.5",
+    "mocha": "^8.2.0"
+  }
+}
